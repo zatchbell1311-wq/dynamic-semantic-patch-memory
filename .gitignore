@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment & Secrets — NEVER push your Groq API key
+.env
+.env.*
+venv/
+.venv/
+secrets.json
+*.key
+
+# colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data
+data/raw/
+data/cache/
+*.jsonl
+*.parquet
+
+# Results (generated outputs)
+*.pdf
+*.csv
+dspm_results.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
