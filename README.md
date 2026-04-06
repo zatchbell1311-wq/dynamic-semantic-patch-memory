@@ -31,11 +31,11 @@ python run_pipeline.py
 | File | Description |
 |------|-------------|
 | `dspm_results.csv` | Full numeric results table |
-| `fig_main_results.pdf` | 2×2 panel: token usage, TRR, per-turn growth, consistency |
-| `fig_ablation.pdf` | Per-technique ablation bar chart |
-| `fig_baselines.pdf` | Method comparison (Raw / Truncation / Compression / DSPM) |
-| `fig_patch_types.pdf` | Budget allocation pie chart |
-| `fig_error_robustness.pdf` | Error & robustness stats per dialogue |
+| `fig_main_results.png` | 2×2 panel: token usage, TRR, per-turn growth, consistency |
+| `fig_ablation.png` | Per-technique ablation bar chart |
+| `fig_baselines.png` | Method comparison (Raw / Truncation / Compression / DSPM) |
+| `fig_patch_types.png` | Budget allocation pie chart |
+| `fig_error_robustness.png` | Error & robustness stats per dialogue |
 | `error_log.json` | API error log for robustness analysis |
 
 ---
@@ -63,8 +63,6 @@ If you use this work, please cite:
 **Dhruv Dubey** — Bansal Institute of Engineering & Technology, AKTU, Lucknow, India  
 ORCID: [0009-0004-5510-9000](https://orcid.org/0009-0004-5510-9000)  
 Email: dhruvdubey1311@gmail.com
-
-**Collaborators:** Adarsh Pandey · Anurag Vishwakarma · Kartikay Srivastava
 
 ---
 
