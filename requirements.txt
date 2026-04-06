@@ -1,0 +1,18 @@
+# Core LLM & Embeddings
+groq>=0.9.0
+sentence-transformers>=2.7.0
+tiktoken>=0.7.0
+spacy>=3.7.0
+
+# ML & Statistics
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+scipy>=1.13.0
+
+# Visualization (IEEE-grade plots)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Utilities
+tqdm>=4.66.0
