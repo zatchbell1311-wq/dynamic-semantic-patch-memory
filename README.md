@@ -1,4 +1,5 @@
 ## Quickstart
+PAPER PUBLISHED DOI: https://doi.org/10.5281/zenodo.19438636
 
 Follow the steps below to set up and execute the DSPM pipeline.
 
